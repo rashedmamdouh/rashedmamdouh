@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rashed Mamdouh
 - 👀 I’m interested in Frontend development, Ai and Data Analysis Engineering
-- 🌱 I’m currently learning AI, Data science, frontend programming and Chinese Language
+- 🌱 I’m currently learning AI, Software Engineering, Full Stack and Chinese Language
 
 
 <!---
