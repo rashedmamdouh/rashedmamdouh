@@ -116,8 +116,7 @@ EDUCATION
 
 Student at Faculty of Computers and Data Science Alexandria University 
 Minor in Artificial Intelligence and Computer Science 
-Graduation Date: 2024 
-Current GPA: 3.91/4.0 
+Graduation Date: 2024
 
 Certificate of Secondary Education 
 Middle East Secondary school Alexandria, Egypt • 2017 
