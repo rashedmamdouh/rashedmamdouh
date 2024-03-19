@@ -1,7 +1,7 @@
 
 Rashed Mamdouh Abd-elmoniem
 AI & Software Engineer
-Egypt   -  rashedmamdoouh@gmail.com   -   01275344808
+Egypt   -  rashedmamdoouh@gmail.com   
 https://www.linkedin.com/in/rashed-mamdouh-a16940266
 _____________________________________________________
 
