@@ -8,7 +8,7 @@ _____________________________________________________
 SUMMARY 
 
 Bachelor's Degree in Intelligent Systems Faculty of Computers and Data Science Alexandria University.
-University teaching assistant at faculty of Computers and Data Science Alexandria University. 
+Teaching assistant at faculty of Computers and Data Science Alexandria University. 
 -----------------------------------------------------
 Experience in Python, MATLAB and SQL | Git | C, C++c C# | Programming Languages - C,C+
  +,Java,HTML and MS SQL server | Programming with Python, Node js, Ruby, Bash, React, Js |
